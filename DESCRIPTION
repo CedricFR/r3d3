@@ -1,0 +1,9 @@
+Package: r3d3
+Title: Integrates D3 Custom Visualization in R Jupyter Notebooks
+Version: 0.0.0.9000
+Authors@R: person("Cedric", "Canovas", role = c("aut", "cre"))
+Description: Integrates D3 Custom Visualization in R Jupyter Notebooks
+Depends: R (>= 3.4.3)
+License: Apache License 2.0
+Encoding: UTF-8
+LazyData: true
